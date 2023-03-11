@@ -84,10 +84,10 @@ This project was inspired by an article by <a href="https://projects.fivethirtye
 
 ## Datasets used for this post:
 
-[1]: data/election-forecasts-2022 at master · fivethirtyeight/data (github.com)
+[1]: [data/election-forecasts-2022 at master · fivethirtyeight/data (github.com)](https://github.com/fivethirtyeight/data/blob/master/election-forecasts-2022/README.md)
 
-[2]: data/election-deniers at master · fivethirtyeight/data (github.com)
+[2]: [data/election-deniers at master · fivethirtyeight/data (github.com)](https://github.com/fivethirtyeight/data/tree/master/election-deniers)
 
-[3]: Senate Midterm Election 2022: Live Updates, Results & Map (nbcnews.com)
+[3]: [Senate Midterm Election 2022: Live Updates, Results & Map (nbcnews.com)](https://www.nbcnews.com/politics/2022-elections/senate-results?icid=election_nav)
 
-[4]: House of Representatives Midterm Election 2022: Live Updates, Results & Map (nbcnews.com)
+[4]: [House of Representatives Midterm Election 2022: Live Updates, Results & Map (nbcnews.com)](https://www.nbcnews.com/politics/2022-elections/house-results?icid=election_nav)
