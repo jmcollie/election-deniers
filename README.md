@@ -74,3 +74,20 @@ This project was inspired by an article by <a href="https://projects.fivethirtye
             </li>
        </ul>
     </li>
+    
+## Link to Blog Post: https://medium.com/@jonathan.mi.collier/533c6e5318c2
+## Sources used for this post:
+
+[1]: “Reuters/Ipsos: Trump’s Coattails (04/02/2021).” Ipsos, Ipsos, 2 Apr. 2021, https://www.ipsos.com/sites/default/files/ct/news/documents/2021-04/topline_write_up_reuters_ipsos_trump_coattails_poll_-_april_02_2021.pdf. Accessed 10 Mar. 2023.
+
+[2]: Yourish, Karen, et al. “The 147 Republicans Who Voted to Overturn Election Results.” The New York Times, The New York Times, 7 Jan. 2021, https://www.nytimes.com/interactive/2021/01/07/us/elections/electoral-college-biden-objectors.html.
+
+## Datasets used for this post:
+
+[1]: data/election-forecasts-2022 at master · fivethirtyeight/data (github.com)
+
+[2]: data/election-deniers at master · fivethirtyeight/data (github.com)
+
+[3]: Senate Midterm Election 2022: Live Updates, Results & Map (nbcnews.com)
+
+[4]: House of Representatives Midterm Election 2022: Live Updates, Results & Map (nbcnews.com)
